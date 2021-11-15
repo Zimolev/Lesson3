@@ -14,8 +14,6 @@ public class Main {
         exp_1(massiv);
 
         //exp_2(massiv);
-
-
     }
 
     public static void exp_1(String[] m){
@@ -41,7 +39,6 @@ public class Main {
             }
             System.out.print(str + " " + x + " ");
         }
-
         System.out.println();
         System.out.println(noDupesSet);
     }
@@ -60,9 +57,6 @@ public class Main {
                 treeMap.put(m[i], 1);
             }
         }
-
         System.out.println(treeMap);
     }
-
-
 }

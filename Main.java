@@ -13,7 +13,7 @@ public class Main {
 
         exp_1(massiv);
 
-        //exp_2(massiv);
+        exp_2(massiv);
     }
 
     public static void exp_1(String[] m){
